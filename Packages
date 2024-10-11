@@ -1,0 +1,18 @@
+Package: com.xybp888.callassist16.dopamine
+Version: 1.6.4
+Architecture: iphoneos-arm64
+Maintainer: xybp888
+Depends: firmware (>= 15.0), preferenceloader, com.opa334.libsandy
+Filename: ./debs/电话助手iOS16-正式版Rootless.1.6.4.deb
+Size: 2682460
+MD5sum: a1ed1473bb3dfe5b586b9058b9b9e79a
+SHA1: f96814c69f39953e8393c6ceccda72ae8cc6e6db
+SHA256: f4e334c423f5b239a41258b6e05e572a4e4068ec4e9868f1b5a100a58e03aa46
+Section: Tweaks
+Priority: optional
+Description: 电话助手授权版本,通话录音,通话记录合并,T9双卡选卡拨号键盘,短信双卡选卡,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
+Author: xybp888
+Depiction: https://apt.htv123.com/view/140
+Name: 电话助手iOS16-正式版(Rootless)
+Sileodepiction: https://apt.htv123.com/sileo/140
+
