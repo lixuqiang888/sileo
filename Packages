@@ -1,3 +1,21 @@
+Package: byg.iosios.net.snapper3
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/Snapper3智能截图-Rootless.1.0.2.deb
+Size: 911676
+MD5sum: 0ccfb744acb7e7473d248264eee14c95
+SHA1: c37ca285483e42e6443cf9e541617e3c61e81996
+SHA256: dfa1cf4057f69b0d634931a1ba85519662102211864d7ea6e8eeaccd5ac2412b
+Section: 系统增强
+Description: 活久见，破解版比正版上架快，感谢cypwn大神破解，巨魔商店M哥汉化分享！非常感谢给越狱圈带来快乐，有经济能力的请等正版出来后，付费购买，此破解版仅供尝鲜，搬运工源，国内首发！snapper3和snapper2冲突，自己决定要哪个！据说3好用，大家可以自己尝试一下！1.0.1版本更新移除破解依赖，无其它功能！大家今天安装的破解依赖可以删除了，能省一个插件是一个插件，无法更新的话，可以先删除此插件再更新！1.0.2修复OCR识图问题，愉快的截图吧，非常好用！插件自带中文！
+Author: Jonathan Winger-lang
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: Snapper 3智能截图-Rootless
+Sponsor: 搬运工
+
 Package: com.xybp888.callassist16.dopamine
 Version: 1.6.4
 Architecture: iphoneos-arm64
