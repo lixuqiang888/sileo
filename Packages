@@ -34,6 +34,40 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Name: Zetsu 分屏中文汉化插件-Rootless
 Sponsor: 搬运工
 
+Package: com.axs.touchvis
+Version: 2.8-1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/Touch-Viz触摸轨迹.2.8-1.deb
+Size: 708992
+MD5sum: 5a353b95abbf91d80790be519c169c60
+SHA1: 67c3f76855b04a02e07e6e4038d8d7a3f91e4180
+SHA256: 59761abcf3a579e851554d5d1e18edeed08d1a1825d1abd9eac7cd30aa050178
+Section: 录屏轨迹
+Description: Displays your touch interactions! 显示触摸屏幕的轨迹；很酷炫，很丝滑的一个插件，并附带拖尾效果。主要作用:做教程时候让别人知道你点的哪里。
+Author: Lessica
+Icon: https://axs6.github.io/repo/sileodepiction/touchvis/icon.png
+Name: Touch-Viz触摸轨迹
+Sileodepiction: https://axs6.github.io/repo/sileodepiction/touchvis/js.json
+
+Package: com.edge.siri
+Version: 3.1.1-9
+Architecture: iphoneos-arm64
+Maintainer: tangerine
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/EdgeSiri_仿18.deb
+Size: 15236
+MD5sum: 03ab44c411fa94e486ae0cae1c9c4897
+SHA1: 3cd9c6f29e9c60c6b819cb3597acc7fcaafd38b8
+SHA256: ca022b4a24730828635045f9dd282bf2f5477d321d69c88ea69fdcaf4928b04e
+Section: Axs-Tweaks
+Description: 模仿iOS18唤醒Siri边框效果，无设置项。安装即生效-----EdgeSiri是一款为 iOS设计的越狱插件，它能够在 Siri 激活时在屏幕周围显示彩色边框。这个边框不仅增加了视觉吸引力，还能在 Siri 被使用时提供更加直观的反馈。
+Author: tangerine
+Name: EdgeSiri
+Sileodepiction: https://axs6.github.io/repo/sileodepiction/edgesiri/js.json
+
 Package: com.xybp888.callassist16.dopamine
 Version: 1.6.4
 Architecture: iphoneos-arm64
