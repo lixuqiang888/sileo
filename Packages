@@ -16,6 +16,24 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Name: Snapper 3智能截图-Rootless
 Sponsor: 搬运工
 
+Package: byg.iosios.net.zetsu.cn.rl
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Depends: jp.dcsyhi.zetsu, ws.hbang.common
+Conflicts: byg.iosios.ney.zetsurootless15
+Filename: ./debs/Zetsu分屏中文汉化插件-Rootless.1.5.deb
+Size: 8988
+MD5sum: 8a3e3fb99a9c3fef1dd9209bc41f13cd
+SHA1: a31f9ac866d1e4ec189f8fe24ce1bfcb67aef373
+SHA256: 7bee5387b5e72fb0eda22644d3cc08f9dd7b8f039777853c0d90d24d8a8106ad
+Section: 插件依赖
+Description: Zetsu 简体中文包(rootless)。安装之后，会使你的Zetsu插件变成中文显示！
+Author: Mo
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: Zetsu 分屏中文汉化插件-Rootless
+Sponsor: 搬运工
+
 Package: com.xybp888.callassist16.dopamine
 Version: 1.6.4
 Architecture: iphoneos-arm64
