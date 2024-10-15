@@ -68,6 +68,22 @@ Author: tangerine
 Name: EdgeSiri
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/edgesiri/js.json
 
+Package: com.nx.appcardlite
+Version: 2.2.7
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 940
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/AppLecard.2.2.7.deb
+Size: 189708
+MD5sum: 952a663df784260771cffaca6f143319
+SHA1: fbe89861bac69bb1e0e38edae20dff31c00df89e
+SHA256: 5f63acce7210caf1e9bd2adbd75d0e20b6db9b3a7902d33de0d1b26685837d43
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: App Lecard
+
 Package: com.xybp888.callassist16.dopamine
 Version: 1.6.4
 Architecture: iphoneos-arm64
