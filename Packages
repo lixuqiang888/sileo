@@ -84,6 +84,22 @@ Description: A !
 Author: Crassna
 Name: App Lecard
 
+Package: com.nx.appcardlite
+Version: 2.3FT
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 972
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/com.nx.appcardlite_2.3FT_iphoneos-arm64.deb
+Size: 193664
+MD5sum: b3bf8489295ea5c38e5e5fa93a705421
+SHA1: c5c65bd52cb79fbb79bdd079d5ccfbff18aae7f1
+SHA256: 17862c5bd1cf4d4f6f5f0435499f841073a1a014d3f184d7d0ca75eea37ffdba
+Section: Tweaks
+Description: A !
+Author: Crassna
+Name: App Lecard
+
 Package: com.xybp888.callassist16.dopamine
 Version: 1.6.4
 Architecture: iphoneos-arm64
